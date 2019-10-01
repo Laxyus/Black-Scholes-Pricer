@@ -1,0 +1,42 @@
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.App.Wpf.exe.config
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.App.Wpf.exe
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.App.Wpf.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.csprojAssemblyReference.cache
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\App.g.cs
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf_MarkupCompile.cache
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf_MarkupCompile.lref
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.g.resources
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.Properties.Resources.resources
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.csproj.GenerateResource.cache
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.exe
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.App.ViewModels.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.Domain.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.App.ViewModels.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\bin\Debug\BnS.Domain.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.csproj.CopyComplete
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.App.Wpf.exe.config
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.App.Wpf.exe
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.App.Wpf.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.App.ViewModels.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.Common.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.Domain.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.App.ViewModels.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.Common.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\bin\Debug\BnS.Domain.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.csprojAssemblyReference.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\App.g.cs
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf_MarkupCompile.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf_MarkupCompile.lref
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\MainWindow.baml
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.g.resources
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.Properties.Resources.resources
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.csproj.GenerateResource.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.csproj.CopyComplete
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.exe
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.Wpf\obj\Debug\BnS.App.Wpf.pdb

@@ -1,0 +1,26 @@
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.App.ViewModels.deps.json
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.App.ViewModels.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.App.ViewModels.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Domain.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Domain.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.csprojAssemblyReference.cache
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.AssemblyInfo.cs
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.csproj.CopyComplete
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.dll
+C:\Users\Lion\source\repos\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.App.ViewModels.deps.json
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.App.ViewModels.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.App.ViewModels.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Domain.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Domain.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\bin\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.csprojAssemblyReference.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.AssemblyInfo.cs
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.csproj.CopyComplete
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.App.ViewModels\obj\Debug\netstandard2.0\BnS.App.ViewModels.pdb

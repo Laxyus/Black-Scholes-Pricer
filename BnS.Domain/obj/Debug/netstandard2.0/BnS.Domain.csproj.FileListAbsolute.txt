@@ -1,0 +1,22 @@
+C:\Users\Lion\source\repos\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Domain.deps.json
+C:\Users\Lion\source\repos\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Domain.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Domain.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.csprojAssemblyReference.cache
+C:\Users\Lion\source\repos\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.AssemblyInfoInputs.cache
+C:\Users\Lion\source\repos\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.AssemblyInfo.cs
+C:\Users\Lion\source\repos\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.csproj.CopyComplete
+C:\Users\Lion\source\repos\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Domain.deps.json
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Domain.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Domain.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\bin\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.csprojAssemblyReference.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.AssemblyInfoInputs.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.AssemblyInfo.cs
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.csproj.CopyComplete
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain\obj\Debug\netstandard2.0\BnS.Domain.pdb

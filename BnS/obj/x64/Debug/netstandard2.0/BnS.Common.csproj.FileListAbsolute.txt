@@ -1,0 +1,8 @@
+C:\Users\Lion\source\repos\BnS\BnS\bin\x64\Debug\netstandard2.0\BnS.Common.deps.json
+C:\Users\Lion\source\repos\BnS\BnS\bin\x64\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS\bin\x64\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS\obj\x64\Debug\netstandard2.0\BnS.Common.AssemblyInfoInputs.cache
+C:\Users\Lion\source\repos\BnS\BnS\obj\x64\Debug\netstandard2.0\BnS.Common.AssemblyInfo.cs
+C:\Users\Lion\source\repos\BnS\BnS\obj\x64\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS\obj\x64\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS\obj\x64\Debug\netstandard2.0\BnS.Common.csprojAssemblyReference.cache

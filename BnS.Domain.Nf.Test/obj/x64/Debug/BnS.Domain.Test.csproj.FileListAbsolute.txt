@@ -1,0 +1,17 @@
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\BnS.Domain.Test.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\BnS.Domain.Test.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\BnS.Domain.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\nunit.framework.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\BnS.Domain.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\nunit.framework.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\nunit.framework.xml
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\bin\x64\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\obj\x64\Debug\BnS.Domain.Test.csproj.CopyComplete
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\obj\x64\Debug\BnS.Domain.Test.dll
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\obj\x64\Debug\BnS.Domain.Test.pdb
+C:\Users\Lion\source\repos\BnS\BnS.Domain.Nf.Test\obj\x64\Debug\BnS.Domain.Test.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\BnS.Domain.Test.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\BnS.Domain.Test.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\BnS.Common.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\BnS.Domain.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\nunit.framework.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\BnS.Domain.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\BnS.Common.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\nunit.framework.xml
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\obj\Debug\BnS.Domain.Test.csprojAssemblyReference.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\obj\Debug\BnS.Domain.Test.csproj.CopyComplete
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\obj\Debug\BnS.Domain.Test.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS.Domain.Nf.Test\obj\Debug\BnS.Domain.Test.pdb

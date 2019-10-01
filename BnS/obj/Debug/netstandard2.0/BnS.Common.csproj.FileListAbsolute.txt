@@ -1,0 +1,14 @@
+C:\Users\Lion\source\repos\BnS\BnS\bin\Debug\netstandard2.0\BnS.Common.deps.json
+C:\Users\Lion\source\repos\BnS\BnS\bin\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS\bin\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\source\repos\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.AssemblyInfoInputs.cache
+C:\Users\Lion\source\repos\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.AssemblyInfo.cs
+C:\Users\Lion\source\repos\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\source\repos\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\bin\Debug\netstandard2.0\BnS.Common.deps.json
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\bin\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\bin\Debug\netstandard2.0\BnS.Common.pdb
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.AssemblyInfoInputs.cache
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.AssemblyInfo.cs
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.dll
+C:\Users\Lion\Documents\Visual Studio 2019\BnS\BnS\obj\Debug\netstandard2.0\BnS.Common.pdb
